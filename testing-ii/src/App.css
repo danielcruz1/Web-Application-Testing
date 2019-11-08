@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.app-container {
+  border: 1px solid black;
+  height: 930px;
+  background-image: url('./images/baseball.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
